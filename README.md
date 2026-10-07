@@ -75,6 +75,16 @@ Through these labs, I developed practical understanding of:
 
 OWASP Juice Shop was run in a local controlled environment for educational and authorized security testing.
 
+## Evidence
+
+OWASP Juice Shop challenge progress:
+
+![OWASP Juice Shop Scoreboard](screenshots/scoreboard.png)
+
+## Disclaimer
+
+This documentation is for educational purposes. All testing was performed in an authorized local lab environment.
+
 ## Disclaimer
 
 This repository contains educational notes and documentation from authorized cybersecurity labs. No unauthorized testing was performed against real-world systems.
