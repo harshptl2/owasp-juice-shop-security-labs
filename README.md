@@ -83,8 +83,4 @@ OWASP Juice Shop challenge progress:
 
 ## Disclaimer
 
-This documentation is for educational purposes. All testing was performed in an authorized local lab environment.
-
-## Disclaimer
-
-This repository contains educational notes and documentation from authorized cybersecurity labs. No unauthorized testing was performed against real-world systems.
+This documentation is for educational purposes. All testing was performed in an authorized local lab environment. No unauthorized testing was performed against real-world systems.
