@@ -79,8 +79,6 @@ OWASP Juice Shop was run in a local controlled environment for educational and a
 
 OWASP Juice Shop challenge progress:
 
-![OWASP Juice Shop Scoreboard](./screenshots/scoreboard.png)
-
 ## Disclaimer
 
 This documentation is for educational purposes. All testing was performed in an authorized local lab environment. No unauthorized testing was performed against real-world systems.
