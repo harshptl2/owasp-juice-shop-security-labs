@@ -75,6 +75,16 @@ Through these labs, I developed practical understanding of:
 
 OWASP Juice Shop was run in a local controlled environment for educational and authorized security testing.
 
+## Project Progress
+
+- **Platform:** OWASP Juice Shop
+- **Challenges Solved:** 50 / 186
+- **Hacking Challenges Progress:** 43%
+- **Coding Challenges Progress:** 0%
+- **Environment:** Local Docker Lab
+
+I am continuously practicing web application security challenges and documenting my learning, testing approach, and key takeaways.
+
 ## Evidence
 
 OWASP Juice Shop challenge progress:
