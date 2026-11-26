@@ -87,9 +87,10 @@ I am continuously practicing web application security challenges and documenting
 
 ## Evidence
 
-Latest OWASP Juice Shop challenge progress:
+## Evidence
 
-![OWASP Juice Shop Scoreboard](screenshots/scoreboard.png)
+Latest OWASP Juice Shop challenge progress:
+![OWASP Juice Shop Scoreboard](screenshots/screencapture-localhost-3000-2026-11-25-16_02_10.png)
 
 ## Disclaimer
 
