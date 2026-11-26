@@ -86,9 +86,10 @@ OWASP Juice Shop was run in a local controlled environment for educational and a
 I am continuously practicing web application security challenges and documenting my learning, testing approach, and key takeaways.
 
 ## Evidence
-OWASP Juice Shop challenge progress:
 
-![OWASP Juice Shop Scoreboard](screenshots/screencapture-localhost-3000-2026-11-25-16_02_10.png)
+Latest OWASP Juice Shop challenge progress:
+
+![OWASP Juice Shop Scoreboard](screenshots/scoreboard.png)
 
 ## Disclaimer
 
